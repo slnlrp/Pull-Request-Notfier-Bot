@@ -1,0 +1,11 @@
+D:\OpenHack\bot-framework-v4-intro-dotnet-core-master\demo6cards\bin\Debug\netcoreapp2.0\demo6cards.deps.json
+D:\OpenHack\bot-framework-v4-intro-dotnet-core-master\demo6cards\bin\Debug\netcoreapp2.0\demo6cards.runtimeconfig.json
+D:\OpenHack\bot-framework-v4-intro-dotnet-core-master\demo6cards\bin\Debug\netcoreapp2.0\demo6cards.runtimeconfig.dev.json
+D:\OpenHack\bot-framework-v4-intro-dotnet-core-master\demo6cards\bin\Debug\netcoreapp2.0\demo6cards.dll
+D:\OpenHack\bot-framework-v4-intro-dotnet-core-master\demo6cards\bin\Debug\netcoreapp2.0\demo6cards.pdb
+D:\OpenHack\bot-framework-v4-intro-dotnet-core-master\demo6cards\obj\Debug\netcoreapp2.0\demo6cards.csprojAssemblyReference.cache
+D:\OpenHack\bot-framework-v4-intro-dotnet-core-master\demo6cards\obj\Debug\netcoreapp2.0\demo6cards.csproj.CoreCompileInputs.cache
+D:\OpenHack\bot-framework-v4-intro-dotnet-core-master\demo6cards\obj\Debug\netcoreapp2.0\demo6cards.AssemblyInfoInputs.cache
+D:\OpenHack\bot-framework-v4-intro-dotnet-core-master\demo6cards\obj\Debug\netcoreapp2.0\demo6cards.AssemblyInfo.cs
+D:\OpenHack\bot-framework-v4-intro-dotnet-core-master\demo6cards\obj\Debug\netcoreapp2.0\demo6cards.dll
+D:\OpenHack\bot-framework-v4-intro-dotnet-core-master\demo6cards\obj\Debug\netcoreapp2.0\demo6cards.pdb

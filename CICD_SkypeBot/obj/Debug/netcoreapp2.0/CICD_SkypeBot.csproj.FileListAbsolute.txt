@@ -1,0 +1,21 @@
+D:\OpenHack\New folder\demo6cards\bin\Debug\netcoreapp2.0\CICD_SkypeBot.deps.json
+D:\OpenHack\New folder\demo6cards\bin\Debug\netcoreapp2.0\CICD_SkypeBot.runtimeconfig.json
+D:\OpenHack\New folder\demo6cards\bin\Debug\netcoreapp2.0\CICD_SkypeBot.runtimeconfig.dev.json
+D:\OpenHack\New folder\demo6cards\bin\Debug\netcoreapp2.0\CICD_SkypeBot.dll
+D:\OpenHack\New folder\demo6cards\bin\Debug\netcoreapp2.0\CICD_SkypeBot.pdb
+D:\OpenHack\New folder\demo6cards\obj\Debug\netcoreapp2.0\CICD_SkypeBot.csproj.CoreCompileInputs.cache
+D:\OpenHack\New folder\demo6cards\obj\Debug\netcoreapp2.0\CICD_SkypeBot.AssemblyInfoInputs.cache
+D:\OpenHack\New folder\demo6cards\obj\Debug\netcoreapp2.0\CICD_SkypeBot.AssemblyInfo.cs
+D:\OpenHack\New folder\demo6cards\obj\Debug\netcoreapp2.0\CICD_SkypeBot.dll
+D:\OpenHack\New folder\demo6cards\obj\Debug\netcoreapp2.0\CICD_SkypeBot.pdb
+D:\CICD_SkypeBot\bin\Debug\netcoreapp2.0\CICD_SkypeBot.deps.json
+D:\CICD_SkypeBot\bin\Debug\netcoreapp2.0\CICD_SkypeBot.runtimeconfig.json
+D:\CICD_SkypeBot\bin\Debug\netcoreapp2.0\CICD_SkypeBot.runtimeconfig.dev.json
+D:\CICD_SkypeBot\bin\Debug\netcoreapp2.0\CICD_SkypeBot.dll
+D:\CICD_SkypeBot\bin\Debug\netcoreapp2.0\CICD_SkypeBot.pdb
+D:\CICD_SkypeBot\obj\Debug\netcoreapp2.0\CICD_SkypeBot.csprojAssemblyReference.cache
+D:\CICD_SkypeBot\obj\Debug\netcoreapp2.0\CICD_SkypeBot.csproj.CoreCompileInputs.cache
+D:\CICD_SkypeBot\obj\Debug\netcoreapp2.0\CICD_SkypeBot.AssemblyInfoInputs.cache
+D:\CICD_SkypeBot\obj\Debug\netcoreapp2.0\CICD_SkypeBot.AssemblyInfo.cs
+D:\CICD_SkypeBot\obj\Debug\netcoreapp2.0\CICD_SkypeBot.dll
+D:\CICD_SkypeBot\obj\Debug\netcoreapp2.0\CICD_SkypeBot.pdb
